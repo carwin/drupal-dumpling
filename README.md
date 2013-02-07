@@ -11,5 +11,6 @@ Drupal Dumpling does.
 You can also run this on cron for scheduled backups of all your Drupal sites.
 
 ## Author
-Carwin Young 
+Carwin Young
+
 [![endorse](http://api.coderwall.com/carwin/endorsecount.png)](http://coderwall.com/carwin)
